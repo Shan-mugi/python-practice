@@ -5,6 +5,4 @@ I am learning Python to become a Data Analyst / Data Scientist. This repository 
 ## Topics covered
 - Day 1: Variables, data types, operators, input
 - Day 2: If / elif / else, loops, lists, functions, dictionaries
-
-## Next
-- Strings, file handling, NumPy, Pandas, SQL, and projects
+- Day 3: Strings, list methods, while loops, functions and dictionaries
